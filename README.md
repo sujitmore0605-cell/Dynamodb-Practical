@@ -4,7 +4,7 @@ This project demonstrates how to load JSON data into an Amazon DynamoDB table us
 
 ## Architecture Diagram
 
-![AWS DynamoDB Architecture](Screenshots/architecture.png)
+![AWS DynamoDB Architecture](Screenshots/Architecture.png)
 
 ## AWS Services and Tools
 
